@@ -1,5 +1,3 @@
-# LLM-Generate-Blogs
-
 # Blog Generation Model
 
 ## Introduction
